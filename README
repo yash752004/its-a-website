@@ -8,7 +8,7 @@ See you there!
 
 - Leon
 
-== Welcome to Rails
+== Welcome To Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
@@ -152,7 +152,7 @@ More information about irb can be found at:
 link:http://www.rubycentral.com/pickaxe/irb.html
 
 
-== dbconsole
+== Dbconsole
 
 You can go to the command line of your database directly through <tt>rails
 dbconsole</tt>. You would be connected to the database with the credentials
